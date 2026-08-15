@@ -1,7 +1,16 @@
 # My Tech Stack
+
 ## Languages
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=rust,golang,typescript,javascript,java,html,python,lua)
-## Technology
+
+## Technologies
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=svelte,astro,redis,postgresql,sqlite,cassandra,tailwindcss,rocket)
-## Tools
-![icons](https://go-skill-icons.vercel.app/api/icons?i=neovim,zed,zen,chromium,discord,debian,android,apple,docker,github,gradle,kubernetes,lighthouse,macos,wireshark,tailscale,yarn,fabricmc,neoforge)
+
+## Development
+![icons](https://go-skill-icons.vercel.app/api/icons?i=neovim,zed,docker,github,gradle,kubernetes,yarn,lighthouse)
+
+## Platforms
+![icons](https://go-skill-icons.vercel.app/api/icons?i=debian,android,apple,macos)
+
+## Other
+![icons](https://go-skill-icons.vercel.app/api/icons?i=zen,chromium,discord,wireshark,tailscale,fabricmc,neoforge)
